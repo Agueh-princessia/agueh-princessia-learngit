@@ -1,1 +1,12 @@
-
+En tant que directeur d'études,je veux pouvoir me connecter à l'application avec une identifiant et un mot de passe sécurisées.
+En tant que directeur d'études,je veux pouvoir me connecter à l'application avec une identifiant et un mot de passe sécurisées(intitulé,horaire,salle,enseignant).
+En tant que directeur d'études,je veux pouvoir attribuer des enseignants à des cours.
+Sprint3:Amélioration et personnalisation
+Définition d'un titre pour les sprints d"amélioration
+En tant que directeur d'études,je veux pouvoir personnaliser l'affichage de l'emploi du temps(couleurs,formats))
+New branche:Amélioration de l'interface utilisateur (désign, ergonomie).
+En tant que directeur d'études,je veux recevoir une notification en cas de conflit d'emploi du temps (cours doublement planifié,enseignant indisponible).
+New branche:Implémentation des fonctionnalités de personnalisation de l'affichage
+En tant que directeur d'études,je veux pouvoir résoudre manuellement les conflits d'emplois du temps
+New branche:Développement du système de question des conflits et des notifications.
+En tant que directeur d"études,je veux pouvoir exporter les emplois du temps au format PDF ou Excel.
